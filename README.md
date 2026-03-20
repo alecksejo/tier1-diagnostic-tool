@@ -10,7 +10,7 @@ A Python script that automates the collection of system and network data to spee
 - Silent error handling so the script never crashes on the user
 
 ## Background
-As I study for my CompTIA A+, I wanted to build something practical that mirrors what happens in a real help desk environment. Manually collecting system info during a support ticket waste time. I am still early in my Python journey but this script is a good example of what I have been working on. The script script automates that process and saves everything into a clean text file report in seconds. 
+As I study for my CompTIA A+, I wanted to build something practical that mirrors what happens in a real help desk environment. Manually collecting system info during a support ticket waste time. I am still early in my Python journey but this script is a good example of what I have been working on. The script automates that process and saves everything into a clean text file report in seconds. 
 
 ## Running The Script
 1. Make sure Python is installed on the machine
