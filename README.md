@@ -15,7 +15,7 @@ As I study for my CompTIA A+, I wanted to build something practical that mirrors
 ## Running The Script
 1. Make sure Python is installed on the machine
 2. Download diagnostic_tool.py
-3. Open Command Prompt and navigate to the file location
+3. Open Command Prompt and navigate to the file location of your choice
 4. Run: python diagnostic_tool.py
 5. The report will be saved automatically as diagnostic_report.txt 
 
@@ -23,4 +23,4 @@ As I study for my CompTIA A+, I wanted to build something practical that mirrors
 ![Diagnostic Report Output](diagnostic%20output%20screenshot.png)
 
 
-(Note: The output shown was generated using the type command in Command Prompt. Ouput data has been sanitized to protect sensitive information.)
+(Note: The output shown was generated using the type command in Command Prompt. I have sanitized the output data to protect sensitive information.)
