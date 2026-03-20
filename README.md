@@ -20,7 +20,7 @@ As I study for my CompTIA A+, I wanted to build something practical that mirrors
 5. The report will be saved automatically as diagnostic_report.txt 
 
 ## Sample Output
-![Diagnostic Report Output](diagnostic_output_screenshot.png)
+![Diagnostic Report Output](diagnostic%output%screenshot.png)
 
 
 (Note: The output shown was generated using the type command in Command Prompt. Ouput data has been sanitized to protect sensitive information.)
